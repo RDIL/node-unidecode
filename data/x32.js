@@ -1,4 +1,4 @@
-//  Time-stamp: "2016-07-25 07:10:43 MDT"
+//  Time-stamp: "Sat Jul 14 00:27:24 2001 by Automatic Bizooty (__blocks2pm.plx)"
 module.exports = [
 "(g)", "(n)", "(d)", "(r)", "(m)", "(b)", "(s)", "()", "(j)", "(c)", "(k)", "(t)", "(p)", "(h)", "(ga)", "(na)",
 "(da)", "(ra)", "(ma)", "(ba)", "(sa)", "(a)", "(ja)", "(ca)", "(ka)", "(ta)", "(pa)", "(ha)", "(ju)", '[?]', '[?]', '[?]',
@@ -15,8 +15,5 @@ module.exports = [
 '1M', '2M', '3M', '4M', '5M', '6M', '7M', '8M', '9M', '10M', '11M', '12M', '[?]', '[?]', '[?]', '[?]',
 'a', 'i', 'u', 'u', 'o', 'ka', 'ki', 'ku', 'ke', 'ko', 'sa', 'si', 'su', 'se', 'so', 'ta',
 'ti', 'tu', 'te', 'to', 'na', 'ni', 'nu', 'ne', 'no', 'ha', 'hi', 'hu', 'he', 'ho', 'ma', 'mi',
-'mu', 'me', 'mo', 'ya',
-'yu', 'yo', 'ra', 'ri',
-'ru', 're', 'ro', 'wa',
-'wi', 'we', 'wo', '[?]',
+'mu', 'me', 'mo', 'ya', 'yu', 'yo', 'ra', 'ri', 'ru', 're', 'ro', 'wa', 'wi', 'we', 'wo',
 ];

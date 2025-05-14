@@ -1,6 +1,6 @@
 set -e
 
-CPAN_VERSION="1.30"
+CPAN_VERSION="0.04"
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DIR_TMP="${SCRIPT_DIR}/tmp"

@@ -1,4 +1,4 @@
-//  Time-stamp: "2016-07-25 07:11:15 MDT"
+//  Time-stamp: "Sat Jul 14 00:27:24 2001 by Automatic Bizooty (__blocks2pm.plx)"
 module.exports = [
 'apartment', 'alpha', 'ampere', 'are', 'inning', 'inch', 'won', 'escudo', 'acre', 'ounce', 'ohm', "kai-ri", 'carat', 'calorie', 'gallon', 'gamma',
 'giga', 'guinea', 'curie', 'guilder', 'kilo', 'kilogram', 'kilometer', 'kilowatt', 'gram', 'gram ton', 'cruzeiro', 'krone', 'case', 'koruna', "co-op", 'cycle',
@@ -15,5 +15,5 @@ module.exports = [
 'kOhm', 'MOhm', "a.m.", 'Bq', 'cc', 'cd', "C/kg", "Co.", 'dB', 'Gy', 'ha', 'HP', 'in', "K.K.", 'KM', 'kt',
 'lm', 'ln', 'log', 'lx', 'mb', 'mil', 'mol', 'pH', "p.m.", 'PPM', 'PR', 'sr', 'Sv', 'Wb', '[?]', '[?]',
 '1d', '2d', '3d', '4d', '5d', '6d', '7d', '8d', '9d', '10d', '11d', '12d', '13d', '14d', '15d', '16d',
-'17d', '18d', '19d', '20d', '21d', '22d', '23d', '24d', '25d', '26d', '27d', '28d', '29d', '30d', '31d', 'gal',
+'17d', '18d', '19d', '20d', '21d', '22d', '23d', '24d', '25d', '26d', '27d', '28d', '29d', '30d', '31d',
 ];

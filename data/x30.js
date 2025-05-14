@@ -1,4 +1,4 @@
-//  Time-stamp: "2016-07-25 07:08:09 MDT"
+//  Time-stamp: "Sat Jul 14 00:27:24 2001 by Automatic Bizooty (__blocks2pm.plx)"
 module.exports = [
 ' ', ", ", ". ", "\"", "[JIS]", "\"", "/", '0', "<", "> ", "<<", ">> ", "[", "] ", "\\{", "\\} ",
 "[(", ")] ", "\\@", 'X ', "[", "] ", "[[", "]] ", "((", ")) ", "[[", "]] ", "~ ", "``", "''", ",,",
@@ -15,5 +15,5 @@ module.exports = [
 'da', 'ti', 'di', 'tu', 'tu', 'du', 'te', 'de', 'to', 'do', 'na', 'ni', 'nu', 'ne', 'no', 'ha',
 'ba', 'pa', 'hi', 'bi', 'pi', 'hu', 'bu', 'pu', 'he', 'be', 'pe', 'ho', 'bo', 'po', 'ma', 'mi',
 'mu', 'me', 'mo', 'ya', 'ya', 'yu', 'yu', 'yo', 'yo', 'ra', 'ri', 'ru', 're', 'ro', 'wa', 'wa',
-'wi', 'we', 'wo', 'n', 'vu', 'ka', 'ke', 'va', 'vi', 've', 'vo', "", "", "\"", "\"", 'koto',
+'wi', 'we', 'wo', 'n', 'vu', 'ka', 'ke', 'va', 'vi', 've', 'vo', "", "", "\"", "\"",
 ];

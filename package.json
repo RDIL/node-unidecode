@@ -18,24 +18,19 @@
     }
   ],
   "scripts": {
-    "test": "mocha",
-    "lint": "jshint *.js */*.js",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
-    "changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master",
-    "release-major": "npm run test && npm-release major && npm run changelog-git",
-    "release-minor": "npm run test && npm-release minor && npm run changelog-git",
-    "release-patch": "npm run test && npm-release patch && npm run changelog-git"
+    "test": "mocha"
   },
   "engines": {
-    "node": ">= 0.4.12"
-  },
-  "devDependencies": {
-    "conventional-changelog-cli": "^4.1.0",
-    "jshint": "^2.5.11",
-    "mocha": "^10.3.0",
-    "npm-release": "^1.0.0"
+    "node": ">= 18"
   },
   "volta": {
     "node": "20.11.1"
+  },
+  "packageManager": "yarn@4.9.1",
+  "devDependencies": {
+    "mocha": "^11.2.2"
+  },
+  "resolutions": {
+    "safe-buffer": "npm:@nolyfill/safe-buffer@^1"
   }
 }

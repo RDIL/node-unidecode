@@ -1,9 +1,9 @@
-//  Time-stamp: "2014-07-09 03:12:21 MDT sburke@cpan.org"
+//  Time-stamp: "Sat Jul 14 00:27:20 2001 by Automatic Bizooty (__blocks2pm.plx)"
 module.exports = [
 'A', 'a', 'A', 'a', 'A', 'a', 'C', 'c', 'C', 'c', 'C', 'c', 'C', 'c', 'D', 'd',
 'D', 'd', 'E', 'e', 'E', 'e', 'E', 'e', 'E', 'e', 'E', 'e', 'G', 'g', 'G', 'g',
 'G', 'g', 'G', 'g', 'H', 'h', 'H', 'h', 'I', 'i', 'I', 'i', 'I', 'i', 'I', 'i',
-'I', 'i', 'IJ', 'ij', 'J', 'j', 'K', 'k', 'k', 'L', 'l', 'L', 'l', 'L', 'l', 'L',
+'I', 'i', 'IJ', "", 'J', 'j', 'K', 'k', 'k', 'L', 'l', 'L', 'l', 'L', 'l', 'L',
 'l', 'L', 'l', 'N', 'n', 'N', 'n', 'N', 'n', "'n", 'ng', 'NG', 'O', 'o', 'O', 'o',
 'O', 'o', 'OE', 'oe', 'R', 'r', 'R', 'r', 'R', 'r', 'S', 's', 'S', 's', 'S', 's',
 'S', 's', 'T', 't', 'T', 't', 'T', 't', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u',
@@ -15,5 +15,5 @@ module.exports = [
 "|", "||", "|=", "!", 'DZ', 'Dz', 'dz', 'LJ', 'Lj', 'lj', 'NJ', 'Nj', 'nj', 'A', 'a', 'I',
 'i', 'O', 'o', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', "\\@", 'A', 'a',
 'A', 'a', 'AE', 'ae', 'G', 'g', 'G', 'g', 'K', 'k', 'O', 'o', 'O', 'o', 'ZH', 'zh',
-'j', 'DZ', 'Dz', 'dz', 'G', 'g', 'HV', 'W', 'N', 'n', 'A', 'a', 'AE', 'ae', 'O', 'o',
+'j', 'DZ', 'D', 'dz', 'G', 'g', 'HV', 'W', 'N', 'n', 'A', 'a', 'AE', 'ae', 'O', 'o',
 ];
